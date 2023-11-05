@@ -3,7 +3,7 @@
 ### Dated:
 Boston University, Fall 2022
 
-### Decription:
+### Description:
 **DATASET:**
 I obtained this dataset from the UCI directory under the area “Life”. It has 13 columns with 300 rows of data: https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records 
 
